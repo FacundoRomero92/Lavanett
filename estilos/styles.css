@@ -66,8 +66,8 @@ body{
     text-align: justify;
     font-size: 1.5vw;
 }
-#logod3{
-    background-image: url(../imagenes/logoletras.png);
+#d3{
+    background-image: url(../imagenes/letras.png);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -77,7 +77,7 @@ body{
     width: 100%;
 }
 #lad3{
-    background-image: url(../imagenes/LogoLa.png);
+    background-image: url(../imagenes/La.png);
     background-size: contain;
     height: 5vw;
     background-position: center;
@@ -131,9 +131,9 @@ body{
     background: radial-gradient(circle farthest-corner at 50% 50%, rgba(255, 254, 166, 1.000000) 0%, rgba(197, 252, 255, 1.000000) 50%, rgba(238, 248, 255, 1.000000) 100%);
     justify-items: center;
 }
-#logod4{
+#d4{
     z-index: 1;
-    background-image: url(../imagenes/logoletras.png);
+    background-image: url(../imagenes/letras.png);
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: center;
@@ -207,7 +207,7 @@ body{
     width: 20%;
 }
 #section1{
-    background-image: url(../imagenes/LogoLetras.png), url(../imagenes/LogoLa.png);
+    background-image: url(../imagenes/logoletras.png), url(../imagenes/LogoLa.png);
     background-size: 15vw, 7%;
     background-repeat: no-repeat;
     background-position: center, center top;
@@ -221,14 +221,14 @@ body{
     height: 50%;
 }
 #section3{
-    background-image: url(../imagenes/LogoLetras.png), url(../imagenes/men.png);
+    background-image: url(../imagenes/logoletras.png), url(../imagenes/men.png);
     background-size: 15vw, 12%;
     background-repeat: no-repeat;
     background-position: center, bottom right;
     height: 50%;
 }
 #section4{
-    background-image: url(../imagenes/LogoLetras.png), url(../imagenes/girl.png);
+    background-image: url(../imagenes/logoletras.png), url(../imagenes/girl.png);
     background-size: 15vw, 10%;
     background-repeat: no-repeat;
     background-position: center, bottom right;
